@@ -4,4 +4,7 @@ AAAAAAAAAAAAAAAAA
 lllllllllllll
 创建了新分支dev
 chuangjian一个新的分支快捷并且简单
+<<<<<<< HEAD
 chuangjian一个新的分支快简单
+=======
+>>>>>>> featurel
